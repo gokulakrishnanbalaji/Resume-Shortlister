@@ -1,0 +1,4 @@
+gradio 
+transformers 
+pdfplumber 
+torch
